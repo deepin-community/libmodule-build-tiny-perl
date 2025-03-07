@@ -1,8 +1,6 @@
 ---
 Archive: CPAN
-Bug-Database: http://rt.cpan.org/Public/Dist/Display.html?Name=Module-Build-Tiny
-Bug-Submit: bug-module-build-tiny at rt.cpan.org
-Contact: Leon Timmermans <leont@cpan.org>, David Golden <dagolden@cpan.org>
-Name: Module-Build-Tiny
-Repository: git://github.com/Leont/module-build-tiny.git
-Repository-Browse: https://github.com/Leont/module-build-tiny
+Bug-Database: https://github.com/Perl-Toolchain-Gang/module-build-tiny/issues
+Bug-Submit: https://github.com/Perl-Toolchain-Gang/module-build-tiny/issues/new
+Repository: https://github.com/Perl-Toolchain-Gang/module-build-tiny.git
+Repository-Browse: https://github.com/Perl-Toolchain-Gang/module-build-tiny

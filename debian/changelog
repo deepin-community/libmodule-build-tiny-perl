@@ -1,3 +1,62 @@
+libmodule-build-tiny-perl (0.048-1) unstable; urgency=medium
+
+  * Import upstream version 0.048.
+  * Add new (test) dependency.
+  * Update years of packaging copyright.
+  * Declare compliance with Debian Policy 4.7.0.
+  * Refresh test and runtime dependencies.
+
+ -- gregor herrmann <gregoa@debian.org>  Thu, 16 May 2024 11:31:58 +0200
+
+libmodule-build-tiny-perl (0.047-1) unstable; urgency=medium
+
+  * Import upstream version 0.047.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 01 Oct 2023 03:02:11 +0200
+
+libmodule-build-tiny-perl (0.046-1) unstable; urgency=medium
+
+  * Import upstream version 0.043.
+  * Update debian/upstream/metadata.
+  * Update years of packaging copyright.
+  * Update alternative (test) dependencies.
+  * Declare compliance with Debian Policy 4.6.2.
+  * Set Rules-Requires-Root: no.
+  * Drop unneeded (test) dependency.
+  * Annotate test-only build dependencies with <!nocheck>.
+
+  * Import upstream version 0.046.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 11 Jun 2023 17:58:34 +0200
+
+libmodule-build-tiny-perl (0.039-2) unstable; urgency=medium
+
+  [ Axel Beckert ]
+  * debian/upstream/metadata: Deobfuscate upstream bug submission
+    address. Issue reported by DUCK.
+
+  [ Salvatore Bonaccorso ]
+  * debian/control: Use HTTPS transport protocol for Vcs-Git URI
+
+  [ gregor herrmann ]
+  * debian/copyright: change Copyright-Format 1.0 URL to HTTPS.
+  * debian/upstream/metadata: change GitHub/CPAN URL(s) to HTTPS.
+  * debian/upstream/metadata: use HTTPS for GitHub URLs.
+
+  [ Salvatore Bonaccorso ]
+  * Update Vcs-* headers for switch to salsa.debian.org
+
+  [ gregor herrmann ]
+  * debian/watch: use uscan version 4.
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Remove obsolete fields Contact, Name from debian/upstream/metadata
+    (already present in machine-readable debian/copyright).
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Wed, 15 Jun 2022 19:43:34 +0100
+
 libmodule-build-tiny-perl (0.039-1.1) unstable; urgency=medium
 
   * Non maintainer upload by the Reproducible Builds team.
