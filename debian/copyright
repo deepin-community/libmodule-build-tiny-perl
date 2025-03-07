@@ -1,4 +1,4 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Module-Build-Tiny
 Source: https://metacpan.org/release/Module-Build-Tiny
 Upstream-Contact: Leon Timmermans <leont@cpan.org>
@@ -9,7 +9,7 @@ Copyright: 2011, Leon Timmermans <leont@cpan.org>
 License: Artistic or GPL-1+
 
 Files: debian/*
-Copyright: 2013-2014, gregor herrmann <gregoa@debian.org>
+Copyright: 2013-2024, gregor herrmann <gregoa@debian.org>
 License: Artistic or GPL-1+
 
 License: Artistic
